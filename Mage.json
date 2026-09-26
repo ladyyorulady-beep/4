@@ -170,60 +170,69 @@
     ]
   },
   {
-    "heroName": "Selena",
-    "skins": [
-      {
-        "name": "Selena Backup",
-        "imageUrl": "https://i.ibb.co/ZVHhtLw/IMG-20210720-083608.jpg",
-        "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20SELENA.zip"
-      },
-      {
-        "name": "Virus",
-        "imageUrl": "https://i.ibb.co/Fg5yBcn/IMG-20210720-083617.jpg",
-        "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20EPIC%F0%9F%94%B8VIRUS.zip"
-      },
-      {
-        "name": "Thunder Flash",
-        "imageUrl": "https://i.ibb.co/2q9vfrX/IMG-20210720-083625.jpg",
-        "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20EPIC%F0%9F%94%B8Thunder%20flash.zip"
-      },
-      {
-        "name": "Double Identity",
-        "imageUrl": "https://i.ibb.co/Mg7V7ds/IMG-20210823-215245.jpg",
-        "downloadUrl": "https://github.com/XXXRAINIER09/INJECTOR/raw/master/sele_star.zip"
-      },
-      {
-        "name": "Lady Vengeance",
-        "imageUrl": "https://github.com/XXXRAINIER09/part12/raw/main/IMG_20220107_110516.jpg",
-        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v78/fix-sfx/Selena%20Abyys.zip"
-      },
-      {
-        "name": "Gemini - Shadow",
-        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/IMG_20220118_205300.jpg",
-        "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20ZODIAC.zip"
-      },
-      {
-        "name": "Gothic Curse",
-        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Test%20md5/IMG_20220624_111658.jpg",
-        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Upcoming%20skins/Selena%20Elite%20(%20Gothic%20Curse%20).zip"
-      },
-      {
-        "name": "S.T.U.N",
-        "imageUrl": "https://i.ibb.co/1rHQsys/IMG-20210720-083635.jpg",
-        "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20S.T.U.N.zip"
-      },
-      {
-        "name": "Wraith Butterfly",
-        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v80/1696853796252.jpg",
-        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v80/selena-butterfly.zip"
-      },
-      {
-        "name": "Curse of Cinders",
-        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
-        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.1/Upcoming%20Skins/selena-zenith.zip"
-      }
-    ]
-  },
+  "heroName": "Selena",
+  "skins": [
+    {
+      "name": "Selena Backup",
+      "imageUrl": "https://i.ibb.co/ZVHhtLw/IMG-20210720-083608.jpg",
+      "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/BACKUP%20SELENA.zip"
+    },
+    {
+      "name": "Virus",
+      "imageUrl": "https://i.ibb.co/Fg5yBcn/IMG-20210720-083617.jpg",
+      "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20EPIC%F0%9F%94%B8VIRUS.zip"
+    },
+    {
+      "name": "Thunder Flash",
+      "imageUrl": "https://i.ibb.co/2q9vfrX/IMG-20210720-083625.jpg",
+      "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20EPIC%F0%9F%94%B8Thunder%20flash.zip"
+    },
+    {
+      "name": "Double Identity",
+      "imageUrl": "https://i.ibb.co/Mg7V7ds/IMG-20210823-215245.jpg",
+      "downloadUrl": "https://github.com/XXXRAINIER09/INJECTOR/raw/master/sele_star.zip"
+    },
+    {
+      "name": "Lady Vengeance",
+      "imageUrl": "https://github.com/XXXRAINIER09/part12/raw/main/IMG_20220107_110516.jpg",
+      "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v78/fix-sfx/Selena%20Abyys.zip"
+    },
+    {
+      "name": "Gemini - Shadow",
+      "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/IMG_20220118_205300.jpg",
+      "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20ZODIAC.zip"
+    },
+    {
+      "name": "Gothic Curse",
+      "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Test%20md5/IMG_20220624_111658.jpg",
+      "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Upcoming%20skins/Selena%20Elite%20(%20Gothic%20Curse%20).zip"
+    },
+    {
+      "name": "S.T.U.N",
+      "imageUrl": "https://i.ibb.co/1rHQsys/IMG-20210720-083635.jpg",
+      "downloadUrl": "https://github.com/SourceBMT95/NEWMAGE/raw/main/SELENA%20S.T.U.N.zip"
+    },
+    {
+      "name": "Wraith Butterfly",
+      "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v80/1696853796252.jpg",
+      "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v80/selena-butterfly.zip"
+    },
+    {
+      "name": "Curse of Cinders",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
+      "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.1/Upcoming%20Skins/selena-zenith.zip"
+    },
+    {
+      "name": "SilverBolt Raiko",
+      "imageUrl": "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Hero106312.png",
+      "downloadUrls": [
+        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%201.zip",
+        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%202.zip",
+        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%203.zip"
+      ]
+    }
+  ]
+}
   {
     "heroName": "Valir",
     "skins": [
