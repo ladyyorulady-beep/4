@@ -993,5 +993,20 @@
         "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/mellisa-umbra-bloom.zip"
       }
     ]
+  },
+  {
+    "heroName": "Obsidia",
+    "skins": [
+      {
+        "name": "Obsidia Backup",
+        "imageUrl": "https://liquipedia.net/commons/images/thumb/1/1c/Obsidia_Sovereign_of_Dark%27s_End_Skin.jpg/475px-Obsidia_Sovereign_of_Dark%27s_End_Skin.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.13/SKINS_UPCOMING/obsidian-backup.zip"
+      },
+      {
+        "name": "Undying Remnants",
+        "imageUrl": "https://liquipedia.net/commons/images/thumb/a/a5/Obsidia_Undying_Remnants_Skin.jpg/475px-Obsidia_Undying_Remnants_Skin.jpg",
+        "downloadUrl": ""
+      }
+    ]
   }
 ]
