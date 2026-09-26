@@ -222,16 +222,15 @@
       "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest?cb=20250109163106",
       "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.1/Upcoming%20Skins/selena-zenith.zip"
     },
-    {
-      "name": "SilverBolt Raiko",
-      "imageUrl": "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Hero106312.png",
-      "downloadUrls": [
-        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%201.zip",
-        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%202.zip",
-        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%203.zip"
-      ]
-    }
+ {
+  "name": "SilverBolt Raiko",
+  "imageUrl": "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Hero106312.png",
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%201.zip",
+    "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%202.zip",
+    "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/SilverBolt%20Raiko%203.zip"
   ]
+}
 },
   {
     "heroName": "Valir",
