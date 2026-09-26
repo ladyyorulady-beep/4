@@ -1,0 +1,1437 @@
+[
+  {
+    "heroName": "Phoveus",
+    "skins": [
+      {
+        "name": "Phoveus Backup",
+        "imageUrl": "https://i.ibb.co/Ks6VzS2/IMG-20210820-080334.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/nana_mistbender.zip"
+      },
+      {
+        "name": "Horror Bringer",
+        "imageUrl": "https://i.ibb.co/CPYTK02/IMG-20210820-080327.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Phoveus%20Horror%20Bringer.zip"
+      },
+      {
+        "name": "Matrix Maverick",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero1064-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101449",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPCOMING/phoveus-matrix.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Khaleed",
+    "skins": [
+      {
+        "name": "Khaleed Backup",
+        "imageUrl": "https://github.com/MametGaming/GB_FIGHTER/raw/main/Backup%20Khaled.jpg",
+        "downloadUrl": "https://github.com/BANGMAMET1995/SC_FIGHTER2021/raw/main/BACKUP%20KHALEED.zip"
+      },
+      {
+        "name": "Prince of Sand",
+        "imageUrl": "https://github.com/MametGaming/GB_FIGHTER/raw/main/Basic%20khaled.jpg",
+        "downloadUrl": "https://github.com/BANGMAMET1995/UPDATE-23/raw/main/SKIN%20KHALEED%F0%9F%94%B9Prince%20Of%20Sand.zip"
+      },
+      {
+        "name": "Crescent Scimitar",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Crescent_Scimitar.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Khaleed%20Crescent%20Scimitar.zip"
+      },
+      {
+        "name": "Wave Strider",
+        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v98/khaleed-epic.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v98/khaleed%20epic.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Aulus",
+    "skins": [
+      {
+        "name": "Aulus Backup",
+        "imageUrl": "https://i.ibb.co/tzbc2JP/IMG-20210911-103408.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/UpcomingSkins/Aulus%20Backup%20%5B%20NEW%20%5D.zip"
+      },
+      {
+        "name": "Berserker",
+        "imageUrl": "https://i.ibb.co/Jk0X7nr/IMG-20210911-103400.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Aulis%20Berseker.zip"
+      },
+      {
+        "name": "Barren Pioneer",
+        "imageUrl": "https://github.com/XXXRAINIER09/v23-Upcoming-skins/raw/main/IMG_20220410_103918.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v23-Upcoming-skins/raw/main/Aulus%20starlight.zip"
+      },
+      {
+        "name": "War Lion",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1084-portrait.png/revision/latest?cb=20221216103149",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/UpcomingSkins/Aulus%20%5B%20Special%20%5D.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Bane",
+    "skins": [
+      {
+        "name": "Bane Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/part12/raw/main/IMG_20220107_185603.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/bane_backup.zip"
+      },
+      {
+        "name": "Deep Sea Monster",
+        "imageUrl": "https://github.com/XXXRAINIER09/part12/raw/main/IMG_20220107_185550.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/part12/raw/main/bane%20normal.zip"
+      },
+      {
+        "name": "Castle Master",
+        "imageUrl": "https://github.com/XXXRAINIER09/part12/raw/main/IMG_20220107_185557.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/bane_castle_master.zip"
+      },
+      {
+        "name": "Underworld Outlaw",
+        "imageUrl": "https://github.com/XXXRAINIER09/v21/raw/main/IMG_20220320_103305.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/bane_underworld_outlaw.zip"
+      },
+      {
+        "name": "Warlord",
+        "imageUrl": "https://github.com/XXXRAINIER09/part12/raw/main/IMG_20220107_185542.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/part12/raw/main/bane%20s11.zip"
+      },
+      {
+        "name": "Soul Delfie",
+        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v54/Screenshot%20(408).png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/bane_soul.zip"
+      },
+      {
+        "name": "Lord Scalding Seas",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/img/bane-lord-scalding-seas.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/bane-lord-of-scalding-seas.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Jawhead",
+    "skins": [
+      {
+        "name": "Jawhead Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/Steel_Sweetheart.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20JAWHEAD.zip"
+      },
+      {
+        "name": "Foo Quarterback",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/Foo_Quarterback.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/jawhead%20elite.zip"
+      },
+      {
+        "name": "Space Explorer",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero543-portrait.png/revision/latest?cb=20220525165413",
+        "downloadUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/jawhead%20special%201.zip"
+      },
+      {
+        "name": "Samurai Mech",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/Samurai_Mech.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/JAWHEAD%20COLLECTOR.zip"
+      },
+      {
+        "name": "Candy Bear",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/Candy_Bear.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/jawhead%20starlight.zip"
+      },
+      {
+        "name": "Cyber Ranger",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/jawhead%20mpl.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/jawhead%20mpl.zip"
+      },
+      {
+        "name": "Season 33",
+        "imageUrl": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/jawhead%20s33.jpg",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/JAWHEAD%20S33.zip"
+      },
+      {
+        "name": "Proto Guardian",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132254",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPCOMING/jawhead-proto.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Yin",
+    "skins": [
+      {
+        "name": "Yin Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/IMG_20220120_194901.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20YIN.zip"
+      },
+      {
+        "name": "Fists of Valor",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v23-Upcoming-skins/raw/main/yin%20M-world.zip"
+      },
+      {
+        "name": "M-World",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/YIN%20MWOLRD.zip"
+      },
+      {
+        "name": "Jujutsu Kaisen",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v52/IMG_20230224_232049.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yin-yuji-itadori-F.zip"
+      },
+      {
+        "name": "Eternal Guardian",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1135-color01-portrait.png/revision/latest?cb=20230623125839",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/V67/Yin%20Starlight.zip"
+      },
+      {
+        "name": "AOT Eren",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Yin%20aot.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yin-Eren-F.zip"
+      },
+      {
+        "name": "Dauntless Battlelord",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/img/dyrroth-dauntless-battlelord.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/yin-dauntless-battlelord.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Julian",
+    "skins": [
+      {
+        "name": "Julian Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/Backup%20julian.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20JULIAN.zip"
+      },
+      {
+        "name": "Itachi",
+        "imageUrl": "https://raw.githubusercontent.com/realeso/new-skin/main/julian-itachi.png",
+        "downloadUrl": "https://raw.githubusercontent.com/realeso/new-skin/main/julian-itachi.zip"
+      },
+      {
+        "name": "Silent Edge",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/Basic%20skin%20julian.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/julian%20normal.zip"
+      },
+      {
+        "name": "Jujutsu Kaisen",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v52/IMG_20230224_232038.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/Updated%20Skin/julian-megumi-fixed.zip"
+      },
+      {
+        "name": "Starlight",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v78/julian-Starlight.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v78/Julian-starlight.zip"
+      },
+      {
+        "name": "Kurapika",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/img/julian-hxh.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/julian-kurapika.zip"
+      },
+      {
+        "name": "Meowkin Hunter",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPCOMING/img/julian-fatcat.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/julian-fatcat-update.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Fredrin",
+    "skins": [
+      {
+        "name": "Fredrin Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/fredin%20backup.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/franco-legends.zip"
+      },
+      {
+        "name": "Regal Renegade",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/fredin%20basic.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/fredrin%20basic.zip"
+      },
+      {
+        "name": "Neo Beast",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v70/fredNeoBeast.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-neobeast.zip"
+      },
+      {
+        "name": "Sparkle",
+        "imageUrl": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Fredrin%20sparkle.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/fredrin-sparkle.zip"
+      },
+      {
+        "name": "Royal Marshal",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/img/fredrinn-marshal.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/freddrin-royal-marshal.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Chou",
+    "skins": [
+      {
+        "name": "Chou Backup",
+        "imageUrl": "https://i.ibb.co/h2HzW5m/Pics-Art-07-20-08-04-40.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20CHOU.zip"
+      },
+      {
+        "name": "Iori Yagami",
+        "imageUrl": "https://i.ibb.co/Wx7SxDc/Pics-Art-07-20-08-05-29.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/chou-kof.zip"
+      },
+      {
+        "name": "Thunderfist",
+        "imageUrl": "https://i.ibb.co/D1zyBBz/IMG-20210720-080547.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20DAWNING.zip"
+      },
+      {
+        "name": "Hip-hop Boy",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Chou%20Hop%20hop%20boy.zip"
+      },
+      {
+        "name": "King of Muay Thai",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/King_of_Muay_Thai.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Chou%20Elite.zip"
+      },
+      {
+        "name": "Furious Tiger",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Furious_Tiger.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Chou%20furious%20tiger.zip"
+      },
+      {
+        "name": "Dragon Boy",
+        "imageUrl": "https://github.com/XXXRAINIER09/part15/raw/main/IMG_20220128_092802.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20EPIC.zip"
+      },
+      {
+        "name": "S.T.U.N.",
+        "imageUrl": "https://i.ibb.co/3rY4dVg/IMG-20210720-080604.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20S.T.U.N.zip"
+      },
+      {
+        "name": "Dragon Shiryu",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/chou%20Dragon%20shiryu.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20SAINT%20SEIYA%F0%9F%94%B8Dragon%20shiryu.zip"
+      },
+      {
+        "name": "Libra Shiryu",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/chou%20saint%20seya.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20SIANT%20SEIYA%F0%9F%94%B8libra%20shiryu.zip"
+      },
+      {
+        "name": "Echo",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v70/chouEcho.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/CHOU%20CHAMPION%20-%20echo%20PH.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Alucard",
+    "skins": [
+      {
+        "name": "Alucard Backup",
+        "imageUrl": "https://i.ibb.co/S5b3srW/IMG-20210720-080618.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ALUCARD.zip"
+      },
+      {
+        "name": "Obsidian Blade",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_REVAMP/img/alucard-legend-revamp.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_REVAMP/alucard-revamp-legend.zip"
+      },
+      {
+        "name": "Lightborn - Striker",
+        "imageUrl": "https://i.ibb.co/Pw7GM7X/IMG-20210720-080648.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/Updated%20Skin/alucard%20Lightborn%20-fixed.zip"
+      },
+      {
+        "name": "Romantic Fantasy",
+        "imageUrl": "https://github.com/XXXRAINIER09/new-hero-ravamp/raw/main/IMG_20220121_184630.jpg",
+        "downloadUrl": "https://github.com/imoba/UPDATE2022/raw/main/ALUCARD%20VALENTINE.zip"
+      },
+      {
+        "name": "Child of the Fall",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142821",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_REVAMP/alu-revamp-childofthefall.zip"
+      },
+      {
+        "name": "Obi-wan Kenobi",
+        "imageUrl": "https://github.com/XXXRAINIER09/new-ui/raw/main/IMG_20211217_143729.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ALUCARD%20STARWARS.zip"
+      },
+      {
+        "name": "Viscount",
+        "imageUrl": "https://i.ibb.co/6WY5gwk/IMG-20210720-080703.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/anime/raw/main/ALUCARDSTARLIGHT.zip"
+      },
+      {
+        "name": "Demon's Bane",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest?cb=20241123045033",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.3/Upcoming%20Skins/Alucard-demons-bane.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Kaja",
+    "skins": [
+      {
+        "name": "Kaja Backup",
+        "imageUrl": "https://i.ibb.co/HBDjQkX/IMG-20210720-080714.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20KAJA.zip"
+      },
+      {
+        "name": "Skyblocker",
+        "imageUrl": "https://i.ibb.co/cCcSGyJ/IMG-20210720-080738.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/KAJA%20EPIC.zip"
+      },
+      {
+        "name": "Kaminari",
+        "imageUrl": "https://i.ibb.co/QCM517d/IMG-20210720-080726.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/Kaja%20starlight.zip"
+      },
+      {
+        "name": "Horror Whiplash",
+        "imageUrl": "https://i.ibb.co/ZSVLRzT/IMG-20210720-080755.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/kaja%20elite.zip"
+      },
+      {
+        "name": "Iferno Taskmaster",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v78/kaja-epic.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/KAJA%20EPIC%F0%9F%94%B8inferno.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Freya",
+    "skins": [
+      {
+        "name": "Freya Backup",
+        "imageUrl": "https://i.ibb.co/QH92Zjn/IMG-20210720-080813.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20FREYA.zip"
+      },
+      {
+        "name": "Christmas Carnival",
+        "imageUrl": "https://i.ibb.co/277Y50n/IMG-20210720-080842.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/FREYA%20CHRISTMAS.zip"
+      },
+      {
+        "name": "War Angel",
+        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/2.5/Revamp%20Skins/freya_revamp.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/2.5/Revamp%20Skins/Freya%20War%20angel%20revamp.zip"
+      },
+      {
+        "name": "S.A.B.E.R. Manhunter",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/IMG_20220118_135601.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/FREYA%20S.A.B.E.R.zip"
+      },
+      {
+        "name": "Raven Shogun",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-14/raw/main/IMG_20220119_185214.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/FREYA%20EPIC%F0%9F%94%B9Raven%20Shogun.zip"
+      },
+      {
+        "name": "Beach Sweetheart",
+        "imageUrl": "https://i.ibb.co/jgqhT5n/IMG-20210720-080854.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/day2-part11/raw/main/freya%20special.zip"
+      },
+      {
+        "name": "Galactic Vanquisher",
+        "imageUrl": "https://i.ibb.co/PhcYCXX/Screenshot-20240109-161837.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v90/Freya%20Legend.zip"
+      },
+      {
+        "name": "Starborn Resolve",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/img/freya-starlight.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.11/SKIN_UPCOMING/freya-starligth.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Roger",
+    "skins": [
+      {
+        "name": "Roger Backup",
+        "imageUrl": "https://i.ibb.co/Syzb7Sv/IMG-20210720-080906.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ROGER.zip"
+      },
+      {
+        "name": "Dr. Beast",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/dr%20beast.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Roger%20Dr%20beast.zip"
+      },
+      {
+        "name": "Phantom Pirate",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cb=20230317100649",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ROGER%20EPIC%F0%9F%94%B8Phantom.zip"
+      },
+      {
+        "name": "Phantom Ranger",
+        "imageUrl": "https://i.ibb.co/rk3znpG/IMG-20211120-094213.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/new-update-skin/raw/main/Roger%20m3.zip"
+      },
+      {
+        "name": "Fiend Haunter",
+        "imageUrl": "https://i.ibb.co/py31xph/IMG-20211120-100318.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ROGER%20PRIME.zip"
+      },
+      {
+        "name": "Grimlock",
+        "imageUrl": "https://github.com/XXXRAINIER09/v28/raw/main/Screenshot_2022_0520_153731_com.mobile.legends.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ROGER%20TRANSFORMERS.zip"
+      },
+      {
+        "name": "Cyborg Werewolf",
+        "imageUrl": "https://i.ibb.co/dtgjtdX/IMG-20210720-080944.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ROGER%20EPIC%F0%9F%94%B8Cyborg%20Werewolf.zip"
+      },
+      {
+        "name": "Invoker Restraint",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/img/roger-invoker-restraint.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Roger-Invoker-Restraint.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Xborg",
+    "skins": [
+      {
+        "name": "Xborg Backup",
+        "imageUrl": "https://i.ibb.co/mcrRsGG/IMG-20210720-080959.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20XBORG.zip"
+      },
+      {
+        "name": "Graffiti Fashion",
+        "imageUrl": "https://i.ibb.co/Yy8bP6t/IMG-20210720-081018.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/XBORG%20STARLIGHT.zip"
+      },
+      {
+        "name": "Tesla Maniac",
+        "imageUrl": "https://i.ibb.co/Hrsxn0Z/IMG-20210720-081034.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/XBORG%2011.11.zip"
+      },
+      {
+        "name": "Bumblebee",
+        "imageUrl": "https://i.ibb.co/mvCgVg8/Screenshot-2021-0820-115757-com-mobile-legends.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/XBORG%20TRANSFORMER.zip"
+      },
+      {
+        "name": "Moto Drifter",
+        "imageUrl": "https://i.ibb.co/KXSQgQL/IMG-20210720-081054.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/XBORG%20ELITE.zip"
+      },
+      {
+        "name": "Pecados",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/img/xborg-pecados.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/xborg-pecados.zip"
+      },
+      {
+        "name": "Invokers Frame",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/img/xborg-invokers-frame.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Xborg-Invoker-Frame.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Martis",
+    "skins": [
+      {
+        "name": "Martis Backup",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20MARTIS.zip"
+      },
+      {
+        "name": "Searing Maw",
+        "imageUrl": "https://i.ibb.co/jgjmDPS/Screenshot-2021-0728-211940.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Martis%20Searing%20maw.zip"
+      },
+      {
+        "name": "God of War",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/Hero584-CAB-7073ff2d8ff39d33e17d8d55f30f25a8-120139026479436373.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/MARTIS%20EPIC.zip"
+      },
+      {
+        "name": "Deathrock",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Deathrock.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Martis%20death%20rock.zip"
+      },
+      {
+        "name": "Capricorn",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Martis%20zodiac.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Updated%20Skin/martis-zodiac.zip"
+      },
+      {
+        "name": "AOT Levi",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Martis%20aot.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/MARTIS%20AOT.zip"
+      },
+      {
+        "name": "Darkwater Terror",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/image/martis.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/Martis%20All%20Star.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Sun",
+    "skins": [
+      {
+        "name": "Sun Backup",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Backup%20sun.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20SUN.zip"
+      },
+      {
+        "name": "Rock Star",
+        "imageUrl": "https://i.ibb.co/svzhVRw/Screenshot-2021-0728-212100.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/SUN%20SPECIAL%F0%9F%94%B8rock%20%20star.zip"
+      },
+      {
+        "name": "Street Legend",
+        "imageUrl": "https://i.ibb.co/PDdqYbS/Screenshot-2021-0728-212151.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/SUN%20SPECIAL%F0%9F%94%B8street%20legend.zip"
+      },
+      {
+        "name": "Battle Buddha",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest?cb=20220525164902",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Sun%20battle%20budha.zip"
+      },
+      {
+        "name": "Spring Blessings",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-13/raw/main/IMG_20220114_171723.jpg",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/SUN%20LUNAR%20FEST.zip"
+      },
+      {
+        "name": "Wicked Flames",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest?cb=20220628180003",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/SUN%20COLLECTOR.zip"
+      },
+      {
+        "name": "Simian Curse",
+        "imageUrl": "https://i.ibb.co/DKRbzpc/Screenshot-2021-0728-212219.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/SUN%20STARLIGHT.zip"
+      },
+      {
+        "name": "Queller of Chaos",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/img/sun-quller-chaos.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/sun-queller-of-chaos.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Terizla",
+    "skins": [
+      {
+        "name": "Terizla Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/terizla.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20TERIZLA.zip"
+      },
+      {
+        "name": "Flare",
+        "imageUrl": "https://i.ibb.co/tDbdP6T/Screenshot-2021-0728-212254.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Terizla%20Flare.zip"
+      },
+      {
+        "name": "Abyss Guard",
+        "imageUrl": "https://github.com/MametGaming/GB_FIGHTER/raw/main/Basic%20terizla.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Terizla%20Abbys%20guard.zip"
+      },
+      {
+        "name": "Rustwreck",
+        "imageUrl": "https://github.com/imoba/GAMBAR_NEW/raw/main/Terizla%20S22.jpg",
+        "downloadUrl": "https://github.com/imoba/SC_updateSkin/raw/main/TERIZLA%20S22.zip"
+      },
+      {
+        "name": "Hammer Giant",
+        "imageUrl": "https://i.ibb.co/F4p2Rrq/Screenshot-2021-0728-212305.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Terizla%20Hammer%20giant.zip"
+      },
+      {
+        "name": "Flames of Judgement",
+        "imageUrl": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Terizla%20epic.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/TERIZLA%20EPIC.zip"
+      },
+      {
+        "name": "Soul Blight Tyrant",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.9/Upcoming%20Skin/img/terizla-collector.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.9/Upcoming%20Skin/terizla-collector.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Masha",
+    "skins": [
+      {
+        "name": "Masha Backup",
+        "imageUrl": "https://i.ibb.co/LdBFwv3/Screenshot-2021-0728-213225.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20MASHA.zip"
+      },
+      {
+        "name": "Combat Maiden",
+        "imageUrl": "https://i.ibb.co/h79xDKc/Screenshot-2021-0728-213336.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Masha%20Combat%20Maiden.zip"
+      },
+      {
+        "name": "Spirited Gauntlet",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero885-portrait.png/revision/latest?cb=20220525170111",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/masha%20season%2023.zip"
+      },
+      {
+        "name": "Dragon Armor",
+        "imageUrl": "https://i.ibb.co/Hq7DGjm/Screenshot-2021-0728-213348.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/MASHA%20Dragon%20tamer.zip"
+      },
+      {
+        "name": "Rogue Talon",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v37/masha%20special.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v37/Masha%20special.zip"
+      },
+      {
+        "name": "Mai Shiranui",
+        "imageUrl": "https://raw.githubusercontent.com/Hiro161123/Fighter/main/Masha%20kof%20'97.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/MASHA%20KOF%20'97.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Paquito",
+    "skins": [
+      {
+        "name": "Paquito Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/paquito.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20PAQUITO.zip"
+      },
+      {
+        "name": "Manny Pacquiao",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero1033-portrait.png/revision/latest?cb=20220525170358",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/PAQUITO%F0%9F%94%B8Manny%20Pacquiau.zip"
+      },
+      {
+        "name": "Death Blow",
+        "imageUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/IMG_20220309_193457.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/paquito%20deathblow.zip"
+      },
+      {
+        "name": "Fulgent Punch",
+        "imageUrl": "https://github.com/XXXRAINIER09/v23-Upcoming-skins/raw/main/IMG_20220410_102931.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v23-Upcoming-skins/raw/main/paquito%20starlight.zip"
+      },
+      {
+        "name": "Underground Boxer",
+        "imageUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/IMG_20220309_193451.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/paquito%20special.zip"
+      },
+      {
+        "name": "Fist of Light",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest?cb=20221216103142",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/UpcomingSkins/PAQUITO%20%5B%20Fists%20of%20light%20%5D.zip"
+      },
+      {
+        "name": "Blazing Tiger",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v60/upcomingSkins/PAQUITO_COLLECTOR.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/PAQUITO%20COLLECTOR.zip"
+      },
+      {
+        "name": "Terry Bogard",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Paquito%20kof%20'97.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/PAQUITO%20KOF%20'97.zip"
+      },
+      {
+        "name": "Fist of Glory",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/image/Pacquito.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/Paquito%20First%20of%20Glory.zip"
+      },
+      {
+        "name": "Demon Tech Striker",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/img/paquito-demon-tech-striker.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.9/SKIN_UPCOMING/paquito-demontech-striker.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Yu zhong",
+    "skins": [
+      {
+        "name": "Yu zhong Backup",
+        "imageUrl": "https://i.ibb.co/vXfbcJw/Screenshot-2021-0728-212441.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhon-Backup-R.zip"
+      },
+      {
+        "name": "Biohazard",
+        "imageUrl": "https://i.ibb.co/YtGyPCx/Screenshot-2021-0728-212511.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhong-Biohazard-R.zip"
+      },
+      {
+        "name": "Blood Serpent",
+        "imageUrl": "https://i.ibb.co/JWTNQLr/Screenshot-2021-0728-212427.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhong-Blood-Serpent-R.zip"
+      },
+      {
+        "name": "Dragon Shade",
+        "imageUrl": "https://github.com/SourceBMT95/Wallpaperfighter/raw/main/yu%20zhong%20M5.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhong-Dragon-shade-R.zip"
+      },
+      {
+        "name": "Cosmic Dragon",
+        "imageUrl": "https://github.com/SourceBMT95/Wallpaperfighter/raw/main/Yu%20zhong%20prime.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhong-Cosic-Dragon-R.zip"
+      },
+      {
+        "name": "Exorcist",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest?cb=20220915122237",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/thamuz-kai.zip"
+      },
+      {
+        "name": "Emerald Dragon",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest?cb=20240707063128",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Yuzhong-emerald-R.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Lapu lapu",
+    "skins": [
+      {
+        "name": "Lapu lapu Backup",
+        "imageUrl": "https://i.ibb.co/YRvq4qL/Screenshot-2021-0728-213530.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20LAPU%20LAPU.zip"
+      },
+      {
+        "name": "Imperial Champion",
+        "imageUrl": "https://i.ibb.co/sqhGX1k/Screenshot-2021-0728-213557.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Lapu%20lapu%20imperial%20Champion.zip"
+      },
+      {
+        "name": "Vulcan",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Vulcan.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Lapu%20Lapu%20Vulcan.zip"
+      },
+      {
+        "name": "Ancestral Blade",
+        "imageUrl": "https://github.com/MametGaming/GB_FIGHTER/raw/main/Basic%20skin%20lapu2.jpg",
+        "downloadUrl": "https://github.com/BANGMAMET1995/Skin_Folder_Baru/raw/main/NORMAL%20SKIN%20LAPU2.zip"
+      },
+      {
+        "name": "Special Force",
+        "imageUrl": "https://i.ibb.co/DRSYqmd/Screenshot-2021-0728-213612.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Lapu%20Lapu%20special%20Force.zip"
+      },
+      {
+        "name": "Son of the Wild",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero376-portrait.png/revision/latest?cb=20230317102332",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v59/Lapu%20Lapu%20S28.zip"
+      },
+      {
+        "name": "Adlaw's Chosen",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Lapulapu%20collector.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/LAPU2%20COLLECTOR.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Badang",
+    "skins": [
+      {
+        "name": "Badang Backup",
+        "imageUrl": "https://i.ibb.co/gZyH27t/Screenshot-2021-0728-213659.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20BADANG.zip"
+      },
+      {
+        "name": "Susanoo",
+        "imageUrl": "https://i.ibb.co/rZMR6Ym/Screenshot-2021-0728-213713.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Badang%20Susanoo.zip"
+      },
+      {
+        "name": "Fist of Zen",
+        "imageUrl": "https://i.ibb.co/J7WCfwc/Screenshot-2021-0728-213735.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BADANG%20COLLECTOR.zip"
+      },
+      {
+        "name": "Leo",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20220525165820",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BADANG%20ZODIAC.zip"
+      },
+      {
+        "name": "Sagittarius Seiya",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/badang%20saint%20seya.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BADANG%20SAINT%20SEIYA(Sagitarius%20Seiya).zip"
+      },
+      {
+        "name": "Pegasus Seiya",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/badang%20pegasus%20seya.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BADANG%20SAINT%20SEIYA(Pegasus%20seiya).zip"
+      },
+      {
+        "name": "Badang Steel Arm",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/img/badang-steel-arm.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/Badang-Steel-arm.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Guinevere",
+    "skins": [
+      {
+        "name": "Guinevere Backup",
+        "imageUrl": "https://i.ibb.co/grTQffm/Screenshot-2021-0728-213841.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20GUINEVERE.zip"
+      },
+      {
+        "name": "Lotus",
+        "imageUrl": "https://i.ibb.co/hCZfJgm/Screenshot-2021-0728-213857.png",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v23/raw/main/guin%20Lotus%20starlight%20revamp.zip"
+      },
+      {
+        "name": "Sakura Wishes",
+        "imageUrl": "https://i.ibb.co/6b1tHYQ/Screenshot-2021-0728-213911.png",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/Sakura%20Wishes.zip"
+      },
+      {
+        "name": "Amethyst Dance",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Amethyst_Dance.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/Amythis%20dance%20guin%20new%20mark.zip"
+      },
+      {
+        "name": "Athena Asamiya",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Athena_Asamiya.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.1/Revamp%20Skin/guinevere-kof-revamp.zip"
+      },
+      {
+        "name": "Summer Breeze",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Summer_Breeze.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v23/raw/main/guin%20summer%20revamp.zip"
+      },
+      {
+        "name": "Psion of Tomorrow",
+        "imageUrl": "https://github.com/XXXRAINIER09/v23/raw/main/IMG_20220408_185734.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/GUINEVERE%20LEGEND.zip"
+      },
+      {
+        "name": "Lady Crane",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cb=20220525165916",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/GUINEVERE%20EPIC.zip"
+      },
+      {
+        "name": "Twilight Star",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/IMG/guinevere-twilight-star.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/guinevere-twilight-star.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Aldous",
+    "skins": [
+      {
+        "name": "Aldous Backup",
+        "imageUrl": "https://i.ibb.co/vPcLXvs/Screenshot-2021-0728-214040.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20ALDOUS.zip"
+      },
+      {
+        "name": "The Insentient",
+        "imageUrl": "https://i.ibb.co/JxDVdTb/Screenshot-2021-0728-214052.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Aldous%20The%20insentient.zip"
+      },
+      {
+        "name": "King of Supremacy",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Aldous%20King%20of%20supremacy.zip"
+      },
+      {
+        "name": "Realm Watcher",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/aldous%20collector.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ALDOUS%20COLLECTOR.zip"
+      },
+      {
+        "name": "Death",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cb=20220525165620",
+        "downloadUrl": "https://github.com/BANGMAMET1995/SC_FIGHTER2021/raw/main/ALDOUS%20ELITE.zip"
+      },
+      {
+        "name": "Starscream",
+        "imageUrl": "https://github.com/XXXRAINIER09/v28/raw/main/Screenshot_2022_0520_153828_com.mobile.legends.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ALDOUS%20TRANSFORMERS.zip"
+      },
+      {
+        "name": "Blazing Force",
+        "imageUrl": "https://i.ibb.co/hcvyqgD/1736058968950.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/Revamp%20Skin/aldous-blazing.zip"
+      },
+      {
+        "name": "Mistbender",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Aldous%20mistbenders.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/2.3/Aldous-mistbender-fixed.zip"
+      },
+      {
+        "name": "Fathom Terror",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.6/SKINS_UPCOMING/img/aldous-fathom-terror.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/blob/main/Version_3.6/SKINS_UPCOMING/Aldous-Fathom-Terror.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Zilong",
+    "skins": [
+      {
+        "name": "Zilong Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/zilong.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v95/zilong-backup-skin.zip"
+      },
+      {
+        "name": "Changbanpo Commander",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/IMG_20211227_191416.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/zilong-changban.zip"
+      },
+      {
+        "name": "Summer Waves",
+        "imageUrl": "https://i.ibb.co/RP0vpFt/zilong-summer.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_REVAMP/zilong-summer-wave.zip"
+      },
+      {
+        "name": "Eastern Warrior",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Eastern_Warrior.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Zilong%20Eastern%20warrior.zip"
+      },
+      {
+        "name": "Blazing Lancer",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Blazing_Lancer.jpg",
+        "downloadUrl": "https://github.com/BANGMAMET1995/SC_FIGHTER2021/raw/main/ZILONG%20ELITE%F0%9F%94%B9Shining%20Knight.zip"
+      },
+      {
+        "name": "Glorious General",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-13/raw/main/IMG_20220112_155140.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ZILONG%20EPIC%F0%9F%94%B9Glorious%20General.zip"
+      },
+      {
+        "name": "Empyrean Paladin",
+        "imageUrl": "https://github.com/XXXRAINIER09/part-13/raw/main/IMG_20220114_130153.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ZILONG%20COLLECTOR.zip"
+      },
+      {
+        "name": "Storm Rider",
+        "imageUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/IMG_20220415_093110.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/v1.20-Part-20-/raw/main/zilong%20515%20script.zip"
+      },
+      {
+        "name": "Christmas Carnival",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest?cb=20220525164650",
+        "downloadUrl": "https://github.com/XXXRAINIER09/day2-part11/raw/main/zilong%20Christmas.zip"
+      },
+      {
+        "name": "Dragon of Prosperity",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest?cb=20240130065432",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/ZILONG%20LUNARFEST.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Alpha",
+    "skins": [
+      {
+        "name": "Alpha Backup",
+        "imageUrl": "https://i.ibb.co/RSH8CxW/IMG-20210819-210606.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ALPHA.zip"
+      },
+      {
+        "name": "Fierce Dragon",
+        "imageUrl": "https://i.ibb.co/ySVZhX7/IMG-20210819-210558.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/42.zip"
+      },
+      {
+        "name": "Sea Gladiator",
+        "imageUrl": "https://i.ibb.co/F67mxfb/IMG-20210819-210550.png",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/43.zip"
+      },
+      {
+        "name": "Onimusha Commander",
+        "imageUrl": "https://github.com/XXXRAINIER09/v21/raw/main/IMG_20220320_104924.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ALPHA%20EPIC.zip"
+      },
+      {
+        "name": "General Void",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero286-portrait.png/revision/latest?cb=20220525164923",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/ALPHA%F0%9F%94%B8ABYSS.zip"
+      },
+      {
+        "name": "Crimson Warrior",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest?cb=20220525164922",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/45.zip"
+      },
+      {
+        "name": "Star Enforcer",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v70/Alpha%20Starlight.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v70/Alpha%20Starlight.zip"
+      },
+      {
+        "name": "Mecha-king Perseus",
+        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v98/alpha-collector.jpg",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/ALPHA%20COLLECTOR.zip"
+      },
+      {
+        "name": "Revenant of Roses",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/img/Alpha-revenant-of-roses.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/aamon-vesel-deceit.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Ruby",
+    "skins": [
+      {
+        "name": "Ruby Backup",
+        "imageUrl": "https://i.ibb.co/rfZpPGS/IMG-20210820-080748.jpg",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20RUBY.zip"
+      },
+      {
+        "name": "Hidden Orchid Butterfly",
+        "imageUrl": "https://i.ibb.co/j5wXHhN/IMG-20210820-080740.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/47.zip"
+      },
+      {
+        "name": "Edelweiss",
+        "imageUrl": "https://i.ibb.co/nfG4DG6/IMG-20210820-080734.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/48.zip"
+      },
+      {
+        "name": "Pirate Parrot",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Pirate_Parrot.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/INJECTOR/raw/master/Rubystarlight.zip"
+      },
+      {
+        "name": "Lady Zombie",
+        "imageUrl": "https://i.ibb.co/T8z19Rf/IMG-20210820-080726.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/RUBY%20EPIC.zip"
+      },
+      {
+        "name": "Mecha Maiden",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest?cb=20221103134236",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/RUBY%20ASPIRANT.zip"
+      },
+      {
+        "name": "Prismatic Plume",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest?cb=20230805043835",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/RUBY%20COLLECTOR.zip"
+      },
+      {
+        "name": "Soul Reaper",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Ruby%20special.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/RUBY%20SPECIAL.zip"
+      },
+      {
+        "name": "Crescent Dervish",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero102910-portrait.png/revision/latest?cb=20250109154352",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/Upcoming%20Skin/ruby-crescent-dervish.zip"
+      },
+      {
+        "name": "Neon Edge",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero102911-portrait.png/revision/latest?cb=20250109154353",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/Upcoming%20Skin/ruby-neon-edge.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Minsitthar",
+    "skins": [
+      {
+        "name": "Minsitthar Backup",
+        "imageUrl": "https://i.ibb.co/qg1c69W/IMG-20210820-080716.jpg",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20MINSITTAR.zip"
+      },
+      {
+        "name": "King of War",
+        "imageUrl": "https://i.ibb.co/NNpGBDD/IMG-20210820-080656.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/51.zip"
+      },
+      {
+        "name": "Gilded King",
+        "imageUrl": "https://i.ibb.co/RvQ3mF4/IMG-20210820-080705.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/52.zip"
+      },
+      {
+        "name": "Crimson Lion",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20230623125755",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/V67/Minsithar%20starlight.zip"
+      },
+      {
+        "name": "Sol Invictus",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero746-portrait.png/revision/latest?cb=20240131092447",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/MINSITTAR%20COLLECTOR.zip"
+      },
+      {
+        "name": "Golden Gala",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/IMG/minsithar-golden-marshal.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/minsitthar-golden-gala.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Dyrroth",
+    "skins": [
+      {
+        "name": "Dyroth Backup",
+        "imageUrl": "https://i.ibb.co/YjHYhzz/IMG-20210820-080645.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20DYRROTH.zip"
+      },
+      {
+        "name": "Ruins Scavenger",
+        "imageUrl": "https://i.ibb.co/LPJwCTs/IMG-20210820-080634.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Dyroth%20Ruins%20Scavenger.zip"
+      },
+      {
+        "name": "Orochi Chris",
+        "imageUrl": "https://i.ibb.co/x8xp577/IMG-20210820-080626.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/dyroth-kof.zip"
+      },
+      {
+        "name": "V.E.N.O.M. Cobra",
+        "imageUrl": "https://github.com/XXXRAINIER09/v21/raw/main/IMG_20220318_123708.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/DYRROTH%20EPIC%F0%9F%94%B8VENOM.zip"
+      },
+      {
+        "name": "Scalebore",
+        "imageUrl": "https://i.ibb.co/Hp4GB83/IMG-20210820-080618.jpg",
+        "downloadUrl": "https://github.com/pleaset/1.22/raw/main/4.zip"
+      },
+      {
+        "name": "Naraka Flame",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/UpcomingSkins/Screenshot%20(248).png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/DYRROTH%20COLLECTOR.zip"
+      },
+      {
+        "name": "Gon",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/img/gon-dyroth.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.8/Upcoming%20Skin/dyroth-gon.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Silvana",
+    "skins": [
+      {
+        "name": "Silvana Backup",
+        "imageUrl": "https://i.ibb.co/BqxnsF3/IMG-20210820-080611.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20SILVANA.zip"
+      },
+      {
+        "name": "Hallowed Lance",
+        "imageUrl": "https://i.ibb.co/txYGyrz/IMG-20210820-080603.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/62.zip"
+      },
+      {
+        "name": "Pure Heroine",
+        "imageUrl": "https://i.ibb.co/LhpTBHc/IMG-20210820-080555.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/63.zip"
+      },
+      {
+        "name": "Midnight Justice",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/Midnight_Justice.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Silvannna%20Midnight%20justice.zip"
+      },
+      {
+        "name": "Queen Frost",
+        "imageUrl": "https://github.com/XXXRAINIER09/part17/raw/main/IMG_20220217_195705.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/SILVANA%20COLLECTOR.zip"
+      },
+      {
+        "name": "Future Cop",
+        "imageUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/IMG_20211227_192156.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/newimage-part-11/raw/main/silavana_elite.zip"
+      },
+      {
+        "name": "Verdant Lancer",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest?cb=20230623125834",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/V67/Silvana%20Elite.zip"
+      },
+      {
+        "name": "Alluring Mystique",
+        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v93/silvana-valentine.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v93/Silvana-Valentine.zip"
+      },
+      {
+        "name": "Fatcat",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPCOMING/img/silvana-fatcat.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPCOMING/silvvana-fatcat.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Thamuz",
+    "skins": [
+      {
+        "name": "Thamuz Backup",
+        "imageUrl": "https://i.ibb.co/xhpGDC9/IMG-20210820-080539.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20THAMUZ.zip"
+      },
+      {
+        "name": "Liquid Fire",
+        "imageUrl": "https://i.ibb.co/CvJtLRy/IMG-20210820-080532.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/66.zip"
+      },
+      {
+        "name": "Lord of Wraith",
+        "imageUrl": "https://i.ibb.co/gTM30ny/IMG-20210820-080524.jpg",
+        "downloadUrl": "https://github.com/pleaset/FIGTHER/raw/main/67.zip"
+      },
+      {
+        "name": "Abyssal Reaper",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest?cb=20220525165749",
+        "downloadUrl": "https://github.com/pleaset/1.22/raw/main/5.zip"
+      },
+      {
+        "name": "General Kai",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v34/upcoming_Skins/thamuz.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/thamuz-kai.zip"
+      },
+      {
+        "name": "Sancified Flame",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v60/upcomingSkins/THAMUZ_STARLIGHT.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v60/upcomingSkins/Thamuz%20New%20Startlight.zip"
+      },
+      {
+        "name": "Annihilator",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/IMG/thamuz-annihilator.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.7/SKINS_UPCOMING/thamuz-the-annihilator.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Leomord",
+    "skins": [
+      {
+        "name": "Leomord Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/IMG_20220706_220834.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20LEOMORD.zip"
+      },
+      {
+        "name": "Frostborn Paladin",
+        "imageUrl": "https://i.ibb.co/gdzSCDL/IMG-20210820-080502.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/Leomord%20Starlight%20revamp.zip"
+      },
+      {
+        "name": "Triumph - Eagle",
+        "imageUrl": "https://i.ibb.co/HTWYs1S/IMG-20210820-080455.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/Leomord%20Special%201%20Revamp.zip"
+      },
+      {
+        "name": "Jack-o'-lantern",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero676-portrait.png/revision/latest?cb=20220525165738",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/LEOMORD%20HALLOWEN.zip"
+      },
+      {
+        "name": "Inferno Soul",
+        "imageUrl": "https://raw.githubusercontent.com/RyuDevGFX/V53/main/v60/upcomingSkins/LEOMORD_EPIC_REVAMP.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/LEOMORD%20EPIC.zip"
+      },
+      {
+        "name": "Hell Knight",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest?cb=20220628173711",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/Leomord%20Basic%20Skin%20revamp.zip"
+      },
+      {
+        "name": "Shadow Knight",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest?cb=20221216103141",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/LEOMORD%20ABYSS.zip"
+      },
+      {
+        "name": "Diavel V4 Rider",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/image/leomord.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.6/Leomord%20Ducati.zip"
+      },
+      {
+        "name": "Nightmare Count",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/img/Leomord-Nightmare.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/leomord-nightmare-count.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Argus",
+    "skins": [
+      {
+        "name": "Argus Backup",
+        "imageUrl": "https://i.ibb.co/QHvBLw4/IMG-20210820-080415.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWFIGHTER/raw/main/BACKUP%20ARGUS.zip"
+      },
+      {
+        "name": "Dark Draconic",
+        "imageUrl": "https://i.ibb.co/TP5yHK7/IMG-20210820-080407.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.7/Updated%20skin/argus-dark-draconic.zip"
+      },
+      {
+        "name": "Catastrophe",
+        "imageUrl": "https://i.ibb.co/q9ypw0z/IMG-20210820-080359.jpg",
+        "downloadUrl": "https://github.com/BANGMAMET1995/SC_FIGHTER2021/raw/main/ARGUS%20ELITE.zip"
+      },
+      {
+        "name": "Darth Vader",
+        "imageUrl": "https://i.ibb.co/jf4hKwr/IMG-20210820-080343.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.7/Revamped%20Skin/argus-starwars-revamp.zip"
+      },
+      {
+        "name": "Light of Dawn",
+        "imageUrl": "https://i.ibb.co/7j1sLvP/IMG-20210820-080351.jpg",
+        "downloadUrl": "https://github.com/pleaset/1.22/raw/main/8.zip"
+      },
+      {
+        "name": "Winged Nightmare",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/argus%20s27.png",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/Argus%20S27%20%5B%20Fixed%20%5D.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Cici",
+    "skins": [
+      {
+        "name": "Cici Backup",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero1231-portrait.png/revision/latest?cb=20231224180723",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BACKUP%20CICI.zip"
+      },
+      {
+        "name": "Whimsical Carnival",
+        "imageUrl": "https://github.com/Hiro161123/Fighter/raw/main/Basic%20skin%20cici.png",
+        "downloadUrl": "https://github.com/Hiro161123/Fighter/raw/main/BASIC%20SKIN%20CICI.zip"
+      },
+      {
+        "name": "Circus Reverie",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1233-portrait.png/revision/latest?cb=20250109154349",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/Upcoming%20Skin/cici-starlight.zip"
+      },
+      {
+        "name": "P.A.C.E",
+        "imageUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/img/cici-pace.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.8/SKIN_UPCOMING/cici-pace.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Lukas",
+    "skins": [
+      {
+        "name": "Lukas Backup",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero1271-portrait.png/revision/latest?cb=20241201052822",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/New%20Hero/Lukas%20backup.zip"
+      },
+      {
+        "name": "Ardent Roar",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1272-portrait.png/revision/latest?cb=20240922103748",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.0/New%20Hero/lukas%20basic%20skin.zip"
+      },
+      {
+        "name": "Naruto Uzumaki",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest?cb=20250411101452",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.5/SKIN_UPDATE/lucas-naruto.zip"
+      }
+    ]
+  },
+  {
+    "heroName": "Kalea",
+    "skins": [
+      {
+        "name": "Kalea Backup",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb=20250407160846",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/UpcomingSkins/Aulus%20Backup%20%5B%20NEW%20%5D.zip"
+      },
+      {
+        "name": "Sakura Haruno",
+        "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest?cb=20250411101453",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.3/Upcoming%20Skins/kalea-naruto-sakura.zip"
+      }
+    ]
+  }
+]
