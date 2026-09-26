@@ -993,19 +993,5 @@
         "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.2/Upcoming%20Skins/mellisa-umbra-bloom.zip"
       }
     ]
-  },
-{
-  "heroName": "Obsidia",
-  "skins": [
-    {
-      "name": "Imperatrix Arashi",
-      "imageUrl": "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Hero2304.png",
-      "downloadUrls": [
-        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Imperatrix%20Arashi%201.zip",
-        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Imperatrix%20Arashi%202.zip",
-        "https://raw.githubusercontent.com/ladyyorulady-beep/9/main/Imperatrix%20Arashi%203.zip"
-      ]
-    }
-  ]
-}
-    ]
+  }
+]
